@@ -33,11 +33,11 @@ val = 'Life is short, You need Python.'
 print(val)
 print(type(val))
 
-val = 'Hell\nWould!' # 탈출문자
+val = 'Hell\nWould!' # 탈출문자 # 한줄띄우기
 print(val)
-val = 'Hell\tWould!'
+val = 'Hell\tWould!' # 네칸띄우기
 print(val)
-val = 'Hell\t\bWould!'
+val = 'Hell\t\bWould!' # 세칸띄우기
 print(val)
 
 val = '''Life is short,

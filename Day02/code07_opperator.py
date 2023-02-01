@@ -54,7 +54,7 @@ print(current[5:7])
 print(current[8:10])
 print(current[11:13])
 print(current[14:16])
-print(current[17:])
+print(current[17:]) # 번수 앞에서 자름
 
 print(current[-19:-15])
 

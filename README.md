@@ -96,4 +96,15 @@ Folium OpenAPI 연동화면
     - GUI 개발
         - Tikinter 소개
         - PyQt 소개, 개발
-    - 자료구조 추가
+        - PYQt 기본 사용법
+        - 위젯
+
+## 10일차
+1. 파이썬 응용
+    - GUI 개발
+        - PyQt 위젯 계속
+        - PyQt 다이얼로그
+
+![실행화면](https://raw.githubusercontent.com/SoYoungHW/studyPython2023/43f59d0ae9bf375d9dceb9b3193d99e9511c606a/dialog.png)
+
+PyQt 실행화면

@@ -39,7 +39,7 @@ class MyApp(QWidget):
             self.setWindowTitle('나는 뭐지')
 
     def changeTitle(self,state):
-        if state == Qt.Checked: 
+        if state == Qt.CheckState: # Qt.Checked 도 사용가능
             self.setWindowTitle('체크박스 클릭')
         else:
             self.setWindowTitle('체크박스 체크해제')

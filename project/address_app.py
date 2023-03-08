@@ -92,8 +92,8 @@ def load_contacts(list):
         if not line: break
 
         lines = line.split('/')
-        contacts = Contact(lines[0], lines[1], lines[2], lines[3])
-        list.append(contacts)
+        contact = Contact(lines[0], lines[1], lines[2], lines[3])
+        list.append(contact)
 
     file.close
 
